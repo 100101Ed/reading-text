@@ -1,6 +1,6 @@
 --
-# Basic Selenium Project
-* The foundation for all your selenium projects Using TestNG
+# Reading From Text Files
+* Read data from a file
 
 ## Helpfull info
 * [Overview for github] (http://rogerdudler.github.io/git-guide/)
