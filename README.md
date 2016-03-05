@@ -1,6 +1,6 @@
 --
 # Reading From Text Files
-* Read data from a file
+* Read data from a file and output the results
 
 ## Helpfull info
 * [Overview for github] (http://rogerdudler.github.io/git-guide/)
